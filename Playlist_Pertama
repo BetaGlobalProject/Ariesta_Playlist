@@ -385,6 +385,26 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:7f:3c:cb&stream=282676&extension=
 http://4ksuper.live/play/live.php?mac=00:1a:79:7f:3c:cb&stream=282678&extension=ts
 #EXTINF:-1 group-title="SPORT" tvg-id="jsports1.jp" tvg-logo="https://m3u-editor.com/storage/channel-logos/cfb15dc0-b1fd-11ee-861e-ef287246b9dd/6026752/1048095656.jpg",J Olahraga 1 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", COMBAT BR 
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=59281&extension=ts&play_token=lmbH14bwKp
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", POLSAT FIGHT 
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=880329&extension=ts&play_token=PIeqXYzE2Z
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHTCLUB
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=880280&extension=ts&play_token=d8mPwQ6Hsb
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT BOX
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=116238&extension=ts&play_token=9ie5WnwKOm
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", FIGHT SPORT
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683135&extension=ts&play_token=M4230CNRaw
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", ARENA FIGHT
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=1107630&extension=ts&play_token=KrSCIEsOlS
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", WWE
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45462&extension=ts&play_token=nHT8miN9cX
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", WWE CHANEL
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=833302&extension=ts&play_token=2kI8A7w1gM
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV US
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=91949&extension=ts&play_token=IV0yk7bGfo
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV UK
  
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/cfb15dc0-b1fd-11ee-861e-ef287246b9dd/6026752/1048095656.jpg" group-title="CARTOON KIDS", ANIMAX
