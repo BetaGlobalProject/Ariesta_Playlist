@@ -14,7 +14,7 @@ http://103.113.116.150:25461/mtm1/12345/4
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/00a57e80-abde-11ee-b71c-a12c4f02952e/5981162/1039654717.jpg" group-title="LOKAL", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/00a57e80-abde-11ee-b71c-a12c4f02952e/5981162/1039654718.jpg" group-title="LOKAL", KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
