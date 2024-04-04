@@ -435,6 +435,29 @@ https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp5.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="MOTOGP", LIVE 7
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp7.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 2
+http://iptvtree.net:8080/c4596f70/c3848d92/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 2
+http://iptvtree.net:8080/c4596f70/c3848d92/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197964
  
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/cfb15dc0-b1fd-11ee-861e-ef287246b9dd/6026752/1048095656.jpg" group-title="CARTOON KIDS", ANIMAX
