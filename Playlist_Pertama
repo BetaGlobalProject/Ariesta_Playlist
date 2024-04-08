@@ -411,7 +411,7 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=833302&extens
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=91949&extension=ts&play_token=IV0yk7bGfo
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV UK
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="FORMULA 1"
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="FORMULA 1", LIVE 1 
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/formula11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="FORMULA 1", LIVE 2 
@@ -425,7 +425,7 @@ https://raw.githubusercontent.com/Arrasyid22/sportlive/main/formula15.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="FORMULA 1", LIVE 6
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/formula16.m3u8
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="MOTOGP"
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="MOTOGP", LIVE 1 
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp1.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="MOTOGP", LIVE 2 
