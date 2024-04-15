@@ -1,158 +1,381 @@
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> LOKAL 2 HD
-//========================================================================
+{
+    "name": "TV 🇮🇩 NASIONAL",
+    "author": "SULUK 🇮🇩 🅸🅿🆃🆅",
+    "image": "https://i.postimg.cc/rsmCr4MX/IPTV-new.png",
+    "info": "by ARIESTA",
+    "url": "https://www.dropbox.com/s/96o6l9xrouuox0l/TV NASIONAL.txt?dl=1",
+    "groups": [
+	
+        {"name": "MAXSTREAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg",
+        "stations":[
+            
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Bali TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Channel 4U",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Digione Maxstream",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Dunia Games TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"JakTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"JTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Kompas TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Kplus",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Magna Channel",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"MAX2U",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Maxstream Music",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Metro TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"MTATV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Rodja TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"RTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Ruang Trampil",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"SEA Today",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"The Indonesia Channel",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"TV Edukasi",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Usee Photo",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Usee Prime",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8"}
+          ]
+        },
+        
+        {"name": "DENS TV",
+        "image": "https://bit.ly/3Ccmy9S",
+        "stations":[
+            
+          {"name":"Live Streaming 1","image": "http://www.dens.tv/images/channel-logo/3.jpg", 
+          "url": "http://rr3.dens.tv/s/s100/live.m3u8"},
+          {"name":"Live Streaming 2","image": "http://www.dens.tv/images/channel-logo/75.jpg", 
+          "url": "http://rr.dens.tv/h/h998/live.m3u8"},
+          {"name":"DensPlay","image": "http://www.dens.tv/images/channel-logo/107.jpg", 
+          "url": "http://rr3.dens.tv/s/s101/live.m3u8"},
+          {"name":"DENS Life & Style","image": "http://www.dens.tv/images/channel-logo/42.jpg", 
+          "url": "http://rr1.dens.tv/h/h28/index.m3u8"},
+          {"name":"Dens Learning & Knowledge","image": "http://www.dens.tv/images/channel-logo/1.jpg", 
+          "url": "http://rr3.dens.tv/s/s36/index.m3u8"},
+          {"name":"Dens SnowBiz","image": "http://www.dens.tv/images/channel-logo/102.jpg", 
+          "url": "http://rr3.dens.tv/s/s35/index.m3u8"},
+          {"name":"Metro TV","image": "http://www.dens.tv/images/channel-logo/6.jpg", 
+          "url": "http://rr.dens.tv/h/h12/index.m3u8"},
 
-###########################
-######## MNC GROUP ########
-###########################
+          {"name":"tvOne","image": "http://www.dens.tv/images/channel-logo/7.jpg", 
+          "url": "http://rr2.dens.tv/s/s105/index3.m3u8"},
+          {"name":"antv","image": "http://www.dens.tv/images/channel-logo/8.jpg", 
+          "url": "http://rr2.dens.tv/s/s07/index3.m3u8"},
+          {"name":"Kompas TV","image": "http://www.dens.tv/images/channel-logo/14.jpg", 
+          "url": "http://rr2.dens.tv/s/s104/index10.m3u8"},
+          {"name":"BeritaSatu","image": "http://www.dens.tv/images/channel-logo/80.jpg", 
+          "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"},
+          {"name":"SCTV","image": "http://www.dens.tv/images/channel-logo/9.jpg", 
+          "url": "http://rr2.dens.tv/s/s03/index.m3u8"},
+          {"name":"Indosiar","image": "http://www.dens.tv/images/channel-logo/10.jpg", 
+          "url": "http://rr2.dens.tv/s/s04/index.m3u8"},
+          {"name":"Trans TV","image": "http://www.dens.tv/images/channel-logo/11.jpg", 
+          "url": "http://rr2.dens.tv/s/s05/index.m3u8"},
+          {"name":"Trans7","image": "http://www.dens.tv/images/channel-logo/12.jpg", 
+          "url": "http://rr.dens.tv/h/h11/index.m3u8"},
+          {"name":"NET.","image": "http://www.dens.tv/images/channel-logo/13.jpg", 
+          "url": "http://rr2.dens.tv/s/s08/index10.m3u8"},
+          {"name":"RTV","image": "http://www.dens.tv/images/channel-logo/22.jpg", 
+          "url": "http://rr2.dens.tv/s/s12/index10.m3u8"},
+          {"name":"Elshinta TV","image": "http://www.dens.tv/images/channel-logo/94.jpg", 
+          "url": "http://rr2.dens.tv/s/s10/index10.m3u8"},
+          {"name":"MYTV","image": "http://www.dens.tv/images/channel-logo/105.jpg", 
+          "url": "http://rr3.dens.tv/s/s88/index2.m3u8"},
+          {"name":"TVRI","image": "http://www.dens.tv/images/channel-logo/17.jpg", 
+          "url": "http://rr2.dens.tv/s/s11/index10.m3u8"},
+          {"name":"TVRI Sport HD","image": "http://www.dens.tv/images/channel-logo/106.jpg", 
+          "url": "http://rr2.dens.tv/s/s107/index1.m3u8"},
+          {"name":"RodjaTV","image": "http://www.dens.tv/images/channel-logo/21.jpg", 
+          "url": "http://rr2.dens.tv/s/s14/index10.m3u8"},
+          {"name":"DAAI TV","image": "http://www.dens.tv/images/channel-logo/23.jpg", 
+          "url": "http://rr2.dens.tv/s/s13/index.m3u8"},
+          {"name":"U-Channel","image": "http://www.dens.tv/images/channel-logo/76.jpg", 
+          "url": "http://rr2.dens.tv/s/s41/index2.m3u8"},
+          {"name":"BALI TV","image": "",
+          "url": "http://rr.dens.tv/h/h159/index2.m3u8"},
+          {"name":"JAKTV","image": "http://www.dens.tv/images/channel-logo/112.jpg", 
+          "url": "http://rr3.dens.tv/s/s46/index.m3u8"},
+          {"name":"MyTV","image": "http://www.dens.tv/images/channel-logo/105.jpg", 
+          "url": "http://rr2.dens.tv/s/s46/01.m3u8"},
 
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+          {"image": "http://www.dens.tv/images/channel-logo/26.jpg","name":"eGG HD",
+          "url": "http://rr.dens.tv/h/h22/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/38.jpg","name":"ANIPLUS HD",
+          "url": "http://rr1.dens.tv/h/h02/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/97.jpg","name":"Animax HD",
+          "url": "http://rr1.dens.tv/h/h144/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/96.jpg","name":"My Kidz HD",
+          "url": "http://rr.dens.tv/h/h191/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/101.jpg","name":"HITS HD",
+          "url": "http://rr1.dens.tv/h/h37/index1.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/93.jpg","name":"AXN HD",
+          "url": "http://rr1.dens.tv/h/h141/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/39.jpg","name":"ROCK Entertainment HD",
+          "url": "http://rr1.dens.tv/h/h16/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/44.jpg","name":"ROCK Extreme HD",
+          "url": "http://rr1.dens.tv/h/h15/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/49.jpg","name":"KIX HD",
+          "url": "http://rr1.dens.tv/h/h07/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/5.jpg","name":"GEM HD",
+          "url": "http://rr.dens.tv/h/h19/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/100.jpg","name":"K-PLUS HD",
+          "url": "http://rr.dens.tv/h/h08/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"ONE HD",
+          "url": "http://rr.dens.tv/h/h143/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/59.jpg","name":"tvN HD",
+          "url": "http://rr1.dens.tv/h/h20/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/58.jpg","name":"tvN Movies HD",
+          "url": "http://rr1.dens.tv/h/h21/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/99.jpg","name":"Celestial Movies",
+          "url": "http://rr2.dens.tv/s/s33/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/110.jpg","name":"CCM (Celestial Classic MV)",
+          "url": "http://rr2.dens.tv/s/s31/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/109.jpg","name":"My Cinema Asia",
+          "url": "http://rr.dens.tv/h/h193/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/103.jpg","name":"Zee Bioskop",
+          "url": "http://rr2.dens.tv/s/s32/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/55.jpg","name":"Thrill",
+          "url": "http://rr2.dens.tv/s/s34/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/87.jpg","name":"CinemaWorld HD",
+          "url": "http://rr1.dens.tv/h/h04/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/95.jpg","name":"My Cinema HD",
+          "url": "http://rr.dens.tv/h/h192/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/92.jpg","name":"My Cinema Europe HD",
+          "url": "http://rr.dens.tv/h/h18/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/37.jpg","name":"TV5MONDE Style HD",
+          "url": "http://rr1.dens.tv/h/h01/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/60.jpg","name":"FIGHT SPORTS HD",
+          "url": "http://rr1.dens.tv/h/h05/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/98.jpg","name":"Motorvision TV HD",
+          "url": "http://rr.dens.tv/h/h09/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/108.jpg","name":"GOLF Channel HD",
+          "url": "http://rr1.dens.tv/h/h10/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/53.jpg","name":"Bloomberg Television HD",
+          "url": "http://rr1.dens.tv/h/h03/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"BLUE ANT ENTERTAINMENT",
+          "url": "http://rr1.dens.tv/h/h16/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"BLUE ANT EXTREME",
+          "url": "http://rr1.dens.tv/h/h15/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/92.jpg","name":"CINEMAEUROPE",
+          "url": "http://rr.dens.tv/h/h18/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"CINEMAWORLD",
+          "url": "http://rr1.dens.tv/h/h04/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"SONY ONE",
+          "url": "http://rr.dens.tv/h/h143/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/87.jpg","name":"STAR",
+          "url": "http://rr3.dens.tv/s/s94/index2.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"TELENOVELA",
+          "url": "http://rr.dens.tv/h/h153/index2.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"TOONMAX",
+          "url": "http://rr2.dens.tv/s/s50/01.m3u8"}
+          ]
+       }
+    ]
+} {
+    "name": "TV 🇮🇩 NASIONAL",
+    "author": "SULUK 🇮🇩 🅸🅿🆃🆅",
+    "image": "https://i.postimg.cc/rsmCr4MX/IPTV-new.png",
+    "info": "by ARIESTA",
+    "url": "https://www.dropbox.com/s/96o6l9xrouuox0l/TV NASIONAL.txt?dl=1",
+    "groups": [
+	
+        {"name": "MAXSTREAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg",
+        "stations":[
+            
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Bali TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Channel 4U",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Digione Maxstream",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Dunia Games TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"JakTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"JTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Kompas TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Kplus",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Magna Channel",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"MAX2U",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Maxstream Music",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Metro TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"MTATV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Rodja TV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"RTV",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Ruang Trampil",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"SEA Today",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"The Indonesia Channel",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"TV Edukasi",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Usee Photo",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8"},
+          {"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg","name":"Usee Prime",
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8"}
+          ]
+        },
+        
+        {"name": "DENS TV",
+        "image": "https://bit.ly/3Ccmy9S",
+        "stations":[
+            
+          {"name":"Live Streaming 1","image": "http://www.dens.tv/images/channel-logo/3.jpg", 
+          "url": "http://rr3.dens.tv/s/s100/live.m3u8"},
+          {"name":"Live Streaming 2","image": "http://www.dens.tv/images/channel-logo/75.jpg", 
+          "url": "http://rr.dens.tv/h/h998/live.m3u8"},
+          {"name":"DensPlay","image": "http://www.dens.tv/images/channel-logo/107.jpg", 
+          "url": "http://rr3.dens.tv/s/s101/live.m3u8"},
+          {"name":"DENS Life & Style","image": "http://www.dens.tv/images/channel-logo/42.jpg", 
+          "url": "http://rr1.dens.tv/h/h28/index.m3u8"},
+          {"name":"Dens Learning & Knowledge","image": "http://www.dens.tv/images/channel-logo/1.jpg", 
+          "url": "http://rr3.dens.tv/s/s36/index.m3u8"},
+          {"name":"Dens SnowBiz","image": "http://www.dens.tv/images/channel-logo/102.jpg", 
+          "url": "http://rr3.dens.tv/s/s35/index.m3u8"},
+          {"name":"Metro TV","image": "http://www.dens.tv/images/channel-logo/6.jpg", 
+          "url": "http://rr.dens.tv/h/h12/index.m3u8"},
 
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+          {"name":"tvOne","image": "http://www.dens.tv/images/channel-logo/7.jpg", 
+          "url": "http://rr2.dens.tv/s/s105/index3.m3u8"},
+          {"name":"antv","image": "http://www.dens.tv/images/channel-logo/8.jpg", 
+          "url": "http://rr2.dens.tv/s/s07/index3.m3u8"},
+          {"name":"Kompas TV","image": "http://www.dens.tv/images/channel-logo/14.jpg", 
+          "url": "http://rr2.dens.tv/s/s104/index10.m3u8"},
+          {"name":"BeritaSatu","image": "http://www.dens.tv/images/channel-logo/80.jpg", 
+          "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"},
+          {"name":"SCTV","image": "http://www.dens.tv/images/channel-logo/9.jpg", 
+          "url": "http://rr2.dens.tv/s/s03/index.m3u8"},
+          {"name":"Indosiar","image": "http://www.dens.tv/images/channel-logo/10.jpg", 
+          "url": "http://rr2.dens.tv/s/s04/index.m3u8"},
+          {"name":"Trans TV","image": "http://www.dens.tv/images/channel-logo/11.jpg", 
+          "url": "http://rr2.dens.tv/s/s05/index.m3u8"},
+          {"name":"Trans7","image": "http://www.dens.tv/images/channel-logo/12.jpg", 
+          "url": "http://rr.dens.tv/h/h11/index.m3u8"},
+          {"name":"NET.","image": "http://www.dens.tv/images/channel-logo/13.jpg", 
+          "url": "http://rr2.dens.tv/s/s08/index10.m3u8"},
+          {"name":"RTV","image": "http://www.dens.tv/images/channel-logo/22.jpg", 
+          "url": "http://rr2.dens.tv/s/s12/index10.m3u8"},
+          {"name":"Elshinta TV","image": "http://www.dens.tv/images/channel-logo/94.jpg", 
+          "url": "http://rr2.dens.tv/s/s10/index10.m3u8"},
+          {"name":"MYTV","image": "http://www.dens.tv/images/channel-logo/105.jpg", 
+          "url": "http://rr3.dens.tv/s/s88/index2.m3u8"},
+          {"name":"TVRI","image": "http://www.dens.tv/images/channel-logo/17.jpg", 
+          "url": "http://rr2.dens.tv/s/s11/index10.m3u8"},
+          {"name":"TVRI Sport HD","image": "http://www.dens.tv/images/channel-logo/106.jpg", 
+          "url": "http://rr2.dens.tv/s/s107/index1.m3u8"},
+          {"name":"RodjaTV","image": "http://www.dens.tv/images/channel-logo/21.jpg", 
+          "url": "http://rr2.dens.tv/s/s14/index10.m3u8"},
+          {"name":"DAAI TV","image": "http://www.dens.tv/images/channel-logo/23.jpg", 
+          "url": "http://rr2.dens.tv/s/s13/index.m3u8"},
+          {"name":"U-Channel","image": "http://www.dens.tv/images/channel-logo/76.jpg", 
+          "url": "http://rr2.dens.tv/s/s41/index2.m3u8"},
+          {"name":"BALI TV","image": "",
+          "url": "http://rr.dens.tv/h/h159/index2.m3u8"},
+          {"name":"JAKTV","image": "http://www.dens.tv/images/channel-logo/112.jpg", 
+          "url": "http://rr3.dens.tv/s/s46/index.m3u8"},
+          {"name":"MyTV","image": "http://www.dens.tv/images/channel-logo/105.jpg", 
+          "url": "http://rr2.dens.tv/s/s46/01.m3u8"},
 
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#############################
-######## EMTEK GROUP ########
-#############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-############################
-######## VIVA GROUP ########
-############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#############################
-######## TRANS MEDIA ########
-#############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-
-#############################
-######## MEDIA GROUP ########
-#############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="bntv.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-
-#################################
-######## KOMPAS GRAMEDIA ########
-#################################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
-###############################
-######## NET MEDIATAMA ########
-###############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="NET.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-###############################
-######## RAJAWALI CORP ########
-###############################
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
-
-######################
-###### LAIN-LAIN #####
-######################
-
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/useeprime.png",Usee Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
-
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@GPRTVKominfo
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png",SEA TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-
-
------ TRANSVISION --------
+          {"image": "http://www.dens.tv/images/channel-logo/26.jpg","name":"eGG HD",
+          "url": "http://rr.dens.tv/h/h22/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/38.jpg","name":"ANIPLUS HD",
+          "url": "http://rr1.dens.tv/h/h02/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/97.jpg","name":"Animax HD",
+          "url": "http://rr1.dens.tv/h/h144/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/96.jpg","name":"My Kidz HD",
+          "url": "http://rr.dens.tv/h/h191/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/101.jpg","name":"HITS HD",
+          "url": "http://rr1.dens.tv/h/h37/index1.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/93.jpg","name":"AXN HD",
+          "url": "http://rr1.dens.tv/h/h141/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/39.jpg","name":"ROCK Entertainment HD",
+          "url": "http://rr1.dens.tv/h/h16/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/44.jpg","name":"ROCK Extreme HD",
+          "url": "http://rr1.dens.tv/h/h15/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/49.jpg","name":"KIX HD",
+          "url": "http://rr1.dens.tv/h/h07/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/5.jpg","name":"GEM HD",
+          "url": "http://rr.dens.tv/h/h19/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/100.jpg","name":"K-PLUS HD",
+          "url": "http://rr.dens.tv/h/h08/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"ONE HD",
+          "url": "http://rr.dens.tv/h/h143/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/59.jpg","name":"tvN HD",
+          "url": "http://rr1.dens.tv/h/h20/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/58.jpg","name":"tvN Movies HD",
+          "url": "http://rr1.dens.tv/h/h21/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/99.jpg","name":"Celestial Movies",
+          "url": "http://rr2.dens.tv/s/s33/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/110.jpg","name":"CCM (Celestial Classic MV)",
+          "url": "http://rr2.dens.tv/s/s31/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/109.jpg","name":"My Cinema Asia",
+          "url": "http://rr.dens.tv/h/h193/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/103.jpg","name":"Zee Bioskop",
+          "url": "http://rr2.dens.tv/s/s32/index10.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/55.jpg","name":"Thrill",
+          "url": "http://rr2.dens.tv/s/s34/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/87.jpg","name":"CinemaWorld HD",
+          "url": "http://rr1.dens.tv/h/h04/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/95.jpg","name":"My Cinema HD",
+          "url": "http://rr.dens.tv/h/h192/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/92.jpg","name":"My Cinema Europe HD",
+          "url": "http://rr.dens.tv/h/h18/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/37.jpg","name":"TV5MONDE Style HD",
+          "url": "http://rr1.dens.tv/h/h01/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/60.jpg","name":"FIGHT SPORTS HD",
+          "url": "http://rr1.dens.tv/h/h05/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/98.jpg","name":"Motorvision TV HD",
+          "url": "http://rr.dens.tv/h/h09/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/108.jpg","name":"GOLF Channel HD",
+          "url": "http://rr1.dens.tv/h/h10/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/53.jpg","name":"Bloomberg Television HD",
+          "url": "http://rr1.dens.tv/h/h03/index.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"BLUE ANT ENTERTAINMENT",
+          "url": "http://rr1.dens.tv/h/h16/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"BLUE ANT EXTREME",
+          "url": "http://rr1.dens.tv/h/h15/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/92.jpg","name":"CINEMAEUROPE",
+          "url": "http://rr.dens.tv/h/h18/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"CINEMAWORLD",
+          "url": "http://rr1.dens.tv/h/h04/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"SONY ONE",
+          "url": "http://rr.dens.tv/h/h143/01.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/87.jpg","name":"STAR",
+          "url": "http://rr3.dens.tv/s/s94/index2.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"TELENOVELA",
+          "url": "http://rr.dens.tv/h/h153/index2.m3u8"},
+          {"image": "http://www.dens.tv/images/channel-logo/89.jpg","name":"TOONMAX",
+          "url": "http://rr2.dens.tv/s/s50/01.m3u8"}
+          ]
+       }
+    ]
+}
