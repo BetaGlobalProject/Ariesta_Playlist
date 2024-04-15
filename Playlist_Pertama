@@ -13,6 +13,42 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="#CCTV KOTAWARINGIN BARAT",Simpang 3 Bank Kal-teng
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", INDONESIA VS VIETNAM
+http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", THAILAND VS KOREA
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=164746&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", INDIA VS AFGANISTAN
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=1104676&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", MALAYSIA VS OMAN
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=591593&extension=ts
+
+
+#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 3
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 4
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 3 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 4 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+
 //========================================================================
 ----------------lokal --------------------------------
 //======================================================================== 
