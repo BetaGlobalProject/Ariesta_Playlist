@@ -15,14 +15,31 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", INDONESIA VS VIETNAM
+#############AFC U23 LIVE############
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 1
 http://171.238.181.52:18080/194.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", THAILAND VS KOREA
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 2
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=164746&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", INDIA VS AFGANISTAN
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 3
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=1104676&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", MALAYSIA VS OMAN
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE",  LIVE 4
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=591593&extension=ts
+#EXTINF:-1 xui-id="39478" tvg-id="" tvg-name="SSC 1 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 5
+http://www.goldentv.tech:80/play/NjpPgy3Hv96YGbmBtOIHppdRpiD_oOxyY14BR2ng5AJ_92PXBq_uVmicwYqoYwR2/ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="AFC U23 LIVE" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg",LIVE 6
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE",LIVE 7
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 
 
 #EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
