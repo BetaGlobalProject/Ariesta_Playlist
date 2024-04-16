@@ -65,6 +65,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
+//========================================================================
+----------------LIGA CHAMPION EROPA --------------------------------
+//======================================================================== 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520466&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730923&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730919&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730913&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 5
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=768742&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 6
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=768745&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 7
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5479_&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5477_&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 9
+http://server.sibfungold.info:8080/live/am20ammeha2014/WFQt4WFQt4CdzO7CdzO7/54482.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 10
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5481&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 11
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=648689&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 12
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=648703&extension=m3u8
+
 
 //========================================================================
 ----------------lokal --------------------------------
