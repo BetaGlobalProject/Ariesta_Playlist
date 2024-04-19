@@ -14,86 +14,74 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
 
 
+################ LIGA CHAMPION EROPA############
 
-#############AFC U23 LIVE############
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA", LIVE 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA",LIVE 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA",LIVE 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5477_&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA", LIVE 4
+http://server.sibfungold.info:8080/live/am20ammeha2014/WFQt4WFQt4CdzO7CdzO7/54482.m3u8
+#EXTINF:-1 group-title="#1# LIGA CHAMPION EROPA" tvg-id="bein#1# LIGA CHAMPION EROPA3thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png", LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#EXTINF:-1 group-title="#1# LIGA CHAMPION EROPA" tvg-id="bein#1# LIGA CHAMPION EROPA4thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png", LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 1
+
+
+                                                           ############# AFC U23 LIVE ############
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE", LIVE 1
 http://171.238.181.52:18080/194.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 2
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE", LIVE 2
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=164746&extension=ts
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 3
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE", LIVE 3
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=1104676&extension=ts
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE",  LIVE 4
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE",  LIVE 4
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=591593&extension=ts
-#EXTINF:-1 xui-id="39478" tvg-id="" tvg-name="SSC 1 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE", LIVE 5
+#EXTINF:-1 xui-id="39478" tvg-id="" tvg-name="SSC 1 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE", LIVE 5
 http://www.goldentv.tech:80/play/NjpPgy3Hv96YGbmBtOIHppdRpiD_oOxyY14BR2ng5AJ_92PXBq_uVmicwYqoYwR2/ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="AFC U23 LIVE" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg",LIVE 6
+#EXTINF:-1 group-title="#2# AFC U23 LIVE" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg",LIVE 6
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="AFC U23 LIVE",LIVE 7
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE",LIVE 7
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
+                                                     ############# LIGA 1 BRI ############
 
-#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 1
+#EXTINF:-1 group-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI"
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI", INDOSIAR 2
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 3
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI", INDOSIAR 3
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 4
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI", INDOSIAR 4
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 3 HD
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI",Sportstars 3 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 4 HD
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#3# LIGA 1 BRI",Sportstars 4 HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-//========================================================================
-----------------LIGA CHAMPION EROPA --------------------------------
-//======================================================================== 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 1
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520466&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 2
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730923&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 3
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730919&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 4
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=730913&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 5
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=768742&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 6
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=768745&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 7
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5479_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 8
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5477_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 9
-http://server.sibfungold.info:8080/live/am20ammeha2014/WFQt4WFQt4CdzO7CdzO7/54482.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 10
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5481&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 11
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=648689&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION EROPA", LIVE 12
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=648703&extension=m3u8
-
 
 //========================================================================
 ----------------lokal --------------------------------
