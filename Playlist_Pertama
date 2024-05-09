@@ -37,7 +37,14 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/
 
 
 
-                                                           ############# AFC U23 LIVE ############
+                                                           ############# U23 LIVE ############
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##",Sportstars 4 HD
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a925ce0-f698-11ee-ba0b-c37d371f6d86/6545716/1131702890.jpg" group-title="#2# AFC U23 LIVE", LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
