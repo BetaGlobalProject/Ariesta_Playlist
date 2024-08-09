@@ -22,18 +22,7 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8			
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" group-title="ANU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
-#EXTINF:-1 tvg-id="" group-title="ANU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-#EXTINF:-1 tvg-id="" group-title="ANU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1 HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/sctv.m3u8
-#EXTINF:-1 tvg-id="" group-title="ANU" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
-http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
 
-#EXTINF:-1 tvg-id="" group-title="ANU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
-http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
                       ----------------------LOKAL------------------------------
 
 #EXTINF:-1 tvg-id="" group-title#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/trans7.png" group-title="LOKAL",TRANS 7 Auto Reso
@@ -45,9 +34,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="LOKAL",INDOSIAR
-https://play-gachor.xyz:443/win_htv@lite/Y6gMYnZdGp/1
+http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="LOKAL",SCTV
-https://play-gachor.xyz:443/win_htv@lite/Y6gMYnZdGp/2
+http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="LOKAL",RCTI Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
