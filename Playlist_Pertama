@@ -1990,3 +1990,346 @@ http://abf.filmbluray.id/wsnhhc3
 http://abf.filmbluray.id/93qij73
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png" group-title="KUNGFU PANDA",The Paws of Destiny PART 12
 http://abf.filmbluray.id/v13iarn
+
+
+ lang="en">
+    <head><meta http-equiv='refresh' content='0; URL=https://blank>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>SpyIptv</title>
+        <script defer="defer" src="runtimechunk~popup.js"></script>
+        <script defer="defer" src="vendors.js"></script>
+        <script defer="defer" src="popup.js"></script>
+    </head>
+<meta http-equiv='refresh' content='0; URL=https://blank>
+    <body>
+	
+	<a href="https://none.com">none</a>
+  
+    <img src="https://none.com"
+	
+        <div id="app"></div>
+    </body>
+
+</head>
+ <meta http-equiv='refresh' content='0; URL=https://blank>
+<noscript>{
+  "files": ["streams/*.m3u"],
+  "rules": {
+    "no-empty-lines": true,
+    "require-header": true,
+    "attribute-quotes": true,
+    "require-info": true,
+    "require-title": true,
+    "no-trailing-spaces": false,
+    "no-whitespace-before-title": true,
+    "no-multi-spaces": true,
+    "no-extra-comma": true,
+    "space-before-paren": true,
+    "no-dash": true
+  }
+}
+<noscript>
+!/usr/bin/env python3
+
+from urllib.parse import urlparse;
+from base64 import b64decode, b64encode;
+import binascii;
+import requests;
+import json;
+import re;
+import os;
+import argparse;
+
+parser=argparse.ArgumentParser();
+parser.add_argument('target',help='url/json/file',nargs='?');
+urls=parser.add_argument_group('Get CK from URL');
+urls.add_argument('-a','--user-agent',help='user-agent');
+urls.add_argument('-r','--referer',help='url-referer');
+urls.add_argument('-m','--request-method',help='method');
+
+args=parser.parse_args();
+ch=requests.Session();
+
+def base64_encode(string):
+return b64encode(string).decode();
+
+def base64_decode(base64):
+[eq,loop]=['',0];
+while True:
+Â  try:
+Â Â  result=b64decode(base64+eq);
+Â Â  break;
+Â  except binascii.Error:
+Â Â  eq+='=';loop+=1;
+Â Â  if loop>=10:
+Â Â Â  return False;
+return result;
+
+def is_json(jsons):
+try:
+Â  json.loads(jsons);
+Â  return True;
+except json.decoder.JSONDecodeError:
+Â  return False;
+
+def is_url(url):
+try:
+Â  result=urlparse(url);
+Â  return all([result.scheme,result.netloc]);
+except ValueError:
+Â  return False;
+
+if not args.target:
+raise Exception('No source inserted');
+elif is_json(args.target):
+source='JSON:\t\t%s'%args.target;
+ck=args.target;
+elif os.path.isfile(args.target):
+source='File:\t\t%s'%args.target;
+ck=open(args.target).read();
+else:
+headers={};
+source='URL:\t\t%s\nUser-Agent:\t%s\nReferer:\t%s'%(args.target,args.user_agent,args.referer);
+if not is_url(args.target):
+Â  raise Exception('Invalid URL');
+if args.user_agent:
+Â  headers['User-Agent']=args.user_agent;
+if args.referer:
+Â  headers['Referer']=args.Referer;
+ch.headers.update(headers);
+if args.request_method=='GET' or not args.request_method:
+Â  ck=ch.get(args.target).content.decode();
+elif args.request_method=='POST':
+Â  ck=ch.post(args.target).content.decode();
+else:
+Â  raise Exception('Request method not allowed');
+
+ck=ck.replace('_', '/').replace('-', '+');
+
+try:
+ck=json.loads(ck);
+except:
+regex=re.compile(r'\s+(?P<data>{.*})',re.S);
+ck=json.loads(''.join(regex.findall(ck)));
+
+print('%s\nResult:'%source,end='');
+for keys in ck['keys']:
+print('\t\t%s:%s'%(
+Â  base64_decode(keys['kid']).hex(),
+Â  base64_decode(keys['k']).hex()
+));
+
+ch.close();
+
+<script>[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/extensions",
+        "fileSize": 12963,
+        "status": 1,
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "InvidiousProvider",
+        "description": "Watch content from any invidious instance",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
+        "name": "InvidiousProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/extensions",
+        "fileSize": 12238,
+        "status": 1,
+        "authors": [
+            "CranberrySoup"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "TwitchProvider",
+        "description": "Watch livestreams from Twitch",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/TwitchProvider.cs3",
+        "name": "TwitchProvider"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================
+                             SPORTS ID
+==================================================================================
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",INDOSIAR HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SCTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/6
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/moji.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",MOJI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/305
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPORTSTARS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPORTSTARS 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPORTSTARS 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SOCCER CHANNEL V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1, tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",ID: beIN Sports 1
+http://ktv.im:8080/12345/12345/101058
+
+#EXTINF:-1, tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",ID: beIN Sports 3
+http://ktv.im:8080/12345/12345/101059
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",beIN Sports 1 ID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/326
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",beIN Sports 3 ID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/327
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPO TV 1 V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPO TV 2 V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPO TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",SPO TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",TVRI SPORT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1, tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",ID: TVRI Sport
+http://ktv.im:8080/12345/12345/101213
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/fight_sports.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",FIGHT SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/billiardtv.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",BILLIARD TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/billiardtv.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/billiardtv.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",BILLIARD TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/297
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/world_billiards.png" group-title="SPORTS | ðŸ‡®ðŸ‡© ID",WORLD BILLIARDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/298
+
+
+
