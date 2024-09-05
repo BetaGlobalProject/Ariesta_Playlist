@@ -25,7 +25,19 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="CCTV KOTAWARINGIN BARAT",Simpang 4 ayani
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
 
+# --- Timnas Indonesia ---
 
+#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI PIALA DUNIA
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI PIALA DUNIA",MNC Sports (Sportstars)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI PIALA DUNIA",MNC Sports 2 (Sportstars 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 ###############################   LOCAL  ##################################
 ###########################################################################
 
