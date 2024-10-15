@@ -32,7 +32,7 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="209" tvg-name="MNCSports2.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="INDONESIA",SPORTSTARS 2
+#EXTINF:-1 tvg-chno="209" tvg-name="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGOTV/refs/heads/main/pildun.png" group-title="INDONESIA",SPORTSTARS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
