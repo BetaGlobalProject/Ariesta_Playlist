@@ -36,13 +36,17 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png",INDOSIAR
+#EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXT#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png",SCTV
+#EXT#EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
