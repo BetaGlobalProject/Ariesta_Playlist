@@ -24,6 +24,12 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv2/a2.m3u8
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="CCTV KOTAWARINGIN BARAT",Simpang 4 ayani
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="CCTV KOTAWARINGIN BARAT",Depan pertigaan terminal lama
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv15/a15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Tudung Saji
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv16/a16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/cctv_gantung.ico" group-title="CCTV KOTAWARINGIN BARAT",Simpang 3 Pelingkau
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
 
 
 
