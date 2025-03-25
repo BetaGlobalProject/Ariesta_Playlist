@@ -386,6 +386,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-name="211" tvg-id="MNCSports3.id" tvg-name="SPORTSTARS 3" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="LIVE EVENTS",SPORTSTARS 3
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="209" tvg-name="MNCSports2.id" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="LIVE EVENTS",SPORTSTARS 2
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 
 
