@@ -37,9 +37,9 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
 
 ===========================================SND TV PRO============================================================
 ========================================== LIVE EVENT =================================================================
-
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LIVE BOLA",RCTI_Gen 🇮🇩
-https://midcache5.rctiplus.id/hdlive2/korselvsina20250404.m3u8
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgRBypSfbLJ2ykK6R2o4C1mGsNw51QBV92y304QDOGdlAqLHdokmDRqBx&s=10" group-title="PIALA ASIA U17", ASIA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🇮🇩 SPORT ID  🇮🇩",SPORTSTARS
