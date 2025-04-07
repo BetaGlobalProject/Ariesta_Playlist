@@ -36,13 +36,10 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
 
 
 ===========================================SND TV PRO============================================================
-==========================================ASIA U17 =================================================================
+========================================== LIVE EVENT =================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://anutv.xyz/gambar/bri.jpg",Sportstars 2
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LIVE BOLA",RCTI_Gen 🇮🇩
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🇮🇩 SPORT ID  🇮🇩",SPORTSTARS
