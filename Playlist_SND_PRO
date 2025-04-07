@@ -39,7 +39,7 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
 ========================================== LIVE EVENT =================================================================
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LIVE BOLA",RCTI_Gen 🇮🇩
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://midcache5.rctiplus.id/hdlive2/korselvsina20250404.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🇮🇩 SPORT ID  🇮🇩",SPORTSTARS
